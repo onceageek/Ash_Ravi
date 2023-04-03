@@ -1,1 +1,3 @@
 First Commit for Github
+
+The lack of formatting and the lack of worrying about it, and just seeing plain text is liberating in a way! 
